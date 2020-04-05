@@ -1,6 +1,12 @@
+/**
+ * @file vehicle_model.h
+ *
+ * @author abdelrhman werby
+ * Contact: abdelrhmanwerby@gmail.com
+ *
+ */
+
 #pragma once
-
-
 
 /**
  * @Brief : class save the vehicle state and location
@@ -52,7 +58,7 @@ public:
  * @param n : the coff array length.
  * @param x : the input number to the polynomial.
  *
- * @Return : f(x) 
+ * @Return : f(x)
  */
 double polyval(double* p, int n, double x);
 
@@ -81,4 +87,3 @@ state update_state(inputs input, state last_state, double* coff, double dt, doub
  * @Return : the new state of the vehicle
  */
 state update_state_noise(inputs input, state last_state, double* coff, double dt, double base_length);
-

@@ -1,3 +1,11 @@
+/**
+ * @file vehicle_model.cpp
+ *
+ * @author abdelrhman werby
+ * Contact: abdelrhmanwerby@gmail.com
+ *
+ */
+
 #include "vehicle_model.h"
 #include <cmath>
 #include <random>

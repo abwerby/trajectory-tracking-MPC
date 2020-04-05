@@ -9,7 +9,6 @@ Implementation of Model Predictive Control for Trajectory Tracking of Self Drivi
 ### Prerequisites
 
  dlib optimization library
- GCC or visual studio compiler
 
 ### Installing
 

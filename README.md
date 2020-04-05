@@ -13,7 +13,7 @@ Implementation of Model Predictive Control for Trajectory Tracking of Self Drivi
 ### Installing
 
 ```
-http://dlib.net/optimization.html
+[dlip website](http://dlib.net/optimization.html)
 ```
 
 ## Running the simulation
